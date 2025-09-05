@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Database Management Systems</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Google Font--> 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Beiruti:wght@200..900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="screen active" id="start-screen">
+        <h1>Database Management Systems</h1>
+        <div class="start-screencontent">
+
+          <div class="arabicintro">
+            بسم الله الرحمن الرحيم والصلاة والسلام على أشرف المرسلين سيدنا محمد . 
+اما بعد : هذا تطبيق اسئلة بسيط تم تطويره لتقديم أسئلة في الشبكات يقتصر حالياً على ثلاثة محاضرات من ال3 إلي ال5، من كل شيت 15 سؤال<br><br> ، جربوا وشاركوا .التقنيات واللغات المستخدمة في التطبيق : 
+           
+          </div>
+           <div class="tools">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JS</span>
+              <span>Ajax</span>
+              <span>DOM</span>
+              <span>Json</span>
+            </div>
+        </div>
+        <button id="start-btn">Start Quiz</button>
+      </div>
+
+      <div class="screen" id="quiz-screen">
+        <div class="quiz-header">
+          <h2 id="question-text">Question goes here</h2>
+          <div class="quiz-info">
+            <p>
+              Question <span id="current-question">1</span> of <span id="total-questions">5</span>
+            </p>
+
+            <p>Score: <span id="score">0</span></p>
+          </div>
+        </div>
+
+        <div id="answers-container" class="answers-container">
+          <!-- Answer buttons will be insterted here from our js code later at some point -->
+        </div>
+
+        <div class="progress-bar">
+          <div id="progress" class="progress"></div>
+        </div>
+      </div>
+
+      <div id="result-screen" class="screen">
+        <h1>Results</h1>
+        <div class="result-info">
+          <p>You scored <span id="final-score">0</span> out of <span id="max-score">5</span></p>
+
+          <div id="result-message">Good job!</div>
+        </div>
+        <button id="restart-btn">Restart Quiz</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

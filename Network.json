@@ -1,0 +1,947 @@
+[
+  {
+    "question": "What are the two main types of networks based on the role of the computers?",
+    "answers": [
+      {
+        "text": "Wireless and wired networks",
+        "correct": false
+      },
+      {
+        "text": "Peer-to-Peer (P2P) and Client/Server networks",
+        "correct": true
+      },
+      {
+        "text": "LAN and WAN networks",
+        "correct": false
+      },
+      {
+        "text": "Fiber optic and coaxial cable networks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "In Peer-to-Peer (P2P) networks, what role can each computer play?",
+    "answers": [
+      {
+        "text": "Server only",
+        "correct": false
+      },
+      {
+        "text": "Client only",
+        "correct": false
+      },
+      {
+        "text": "Server or client",
+        "correct": true
+      },
+      {
+        "text": "Workstation only",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why are Peer-to-Peer (P2P) networks popular for home use and small businesses?",
+    "answers": [
+      {
+        "text": "Because they provide centralized control",
+        "correct": false
+      },
+      {
+        "text": "Because they are very easy and secure",
+        "correct": false
+      },
+      {
+        "text": "Because they are inexpensive and easy to install",
+        "correct": true
+      },
+      {
+        "text": "Because they provide high performance for large networks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "In Client/Server networks, what is the role of a dedicated server?",
+    "answers": [
+      {
+        "text": "It acts as both a server and a workstation at the same time",
+        "correct": false
+      },
+      {
+        "text": "It acts as a server only on the network",
+        "correct": true
+      },
+      {
+        "text": "It manages computers running a P2P system",
+        "correct": false
+      },
+      {
+        "text": "It is used only in small home networks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following networks has centralized security control?",
+    "answers": [
+      {
+        "text": "Peer-to-Peer (P2P) network",
+        "correct": false
+      },
+      {
+        "text": "Client/Server network",
+        "correct": true
+      },
+      {
+        "text": "LAN network",
+        "correct": false
+      },
+      {
+        "text": "WAN network",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main drawback of Peer-to-Peer (P2P) networks in terms of security and management?",
+    "answers": [
+      {
+        "text": "They require a dedicated team for management",
+        "correct": false
+      },
+      {
+        "text": "Data can be easily deleted by users",
+        "correct": true
+      },
+      {
+        "text": "Clients depend on servers",
+        "correct": false
+      },
+      {
+        "text": "Data is backed up on the main server",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What category are networks classified into based on the communication medium?",
+    "answers": [
+      {
+        "text": "Client/Server and Peer-to-Peer networks",
+        "correct": false
+      },
+      {
+        "text": "Wired and wireless networks",
+        "correct": true
+      },
+      {
+        "text": "Internal and external networks",
+        "correct": false
+      },
+      {
+        "text": "Local and wide area networks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the most common type of wired network?",
+    "answers": [
+      {
+        "text": "WAN network",
+        "correct": false
+      },
+      {
+        "text": "LAN network",
+        "correct": true
+      },
+      {
+        "text": "MAN network",
+        "correct": false
+      },
+      {
+        "text": "PAN network",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following cables is used in wired networks?",
+    "answers": [
+      {
+        "text": "Fiber optic cables",
+        "correct": true
+      },
+      {
+        "text": "Microwave cables",
+        "correct": false
+      },
+      {
+        "text": "Radio cables",
+        "correct": false
+      },
+      {
+        "text": "All of the above",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of twisting wires in twisted-pair cables?",
+    "answers": [
+      {
+        "text": "To increase the length of the cable",
+        "correct": false
+      },
+      {
+        "text": "To improve the aesthetic appearance",
+        "correct": false
+      },
+      {
+        "text": "To increase interference between cables",
+        "correct": false
+      },
+      {
+        "text": "To protect against electromagnetic interference and reduce crosstalk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What is the main difference between shielded (STP) and unshielded (UTP) twisted-pair cables?",
+    "answers": [
+      {
+        "text": "There is no difference, they are identical",
+        "correct": false
+      },
+      {
+        "text": "STP is made of solid wires, while UTP is made of hollow wires",
+        "correct": false
+      },
+      {
+        "text": "STP has a metal foil shield or covering, while UTP does not",
+        "correct": true
+      },
+      {
+        "text": "STP is used for wireless networks, and UTP for wired networks",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What principle do fiber optic cables use to transmit information?",
+    "answers": [
+      {
+        "text": "Electrical conduction",
+        "correct": false
+      },
+      {
+        "text": "Total internal reflection",
+        "correct": true
+      },
+      {
+        "text": "Electromagnetic waves",
+        "correct": false
+      },
+      {
+        "text": "Radio frequencies",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which type of fiber optic cable can support very high data rates (Gigabits per second) over long distances without the use of repeaters?",
+    "answers": [
+      {
+        "text": "Multimode Fiber",
+        "correct": false
+      },
+      {
+        "text": "Singlemode Fiber",
+        "correct": true
+      },
+      {
+        "text": "Coaxial Cable",
+        "correct": false
+      },
+      {
+        "text": "Twisted Pair Cable",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What medium do wireless networks use to transmit information?",
+    "answers": [
+      {
+        "text": "Wires and cables",
+        "correct": false
+      },
+      {
+        "text": "The environment or air",
+        "correct": true
+      },
+      {
+        "text": "Plastic pipes",
+        "correct": false
+      },
+      {
+        "text": "Sound waves",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Microwaves are high-frequency waves used for:",
+    "answers": [
+      {
+        "text": "Transmitting data wirelessly over short distances",
+        "correct": false
+      },
+      {
+        "text": "Transmitting data wirelessly over long distances",
+        "correct": true
+      },
+      {
+        "text": "Transmitting data via cables",
+        "correct": false
+      },
+      {
+        "text": "None of the above",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which network device helps a workstation establish important network connections?",
+    "answers": [
+      {
+        "text": "Switch",
+        "correct": false
+      },
+      {
+        "text": "Network Interface Card (NIC)",
+        "correct": true
+      },
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Bridge",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is another name for a Network Interface Card (NIC)?",
+    "answers": [
+      {
+        "text": "Terminal Access Point (TAP)",
+        "correct": true
+      },
+      {
+        "text": "LAN Adapter",
+        "correct": false
+      },
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Workstation",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the unique physical address assigned to each Network Interface Card (NIC)?",
+    "answers": [
+      {
+        "text": "IP address",
+        "correct": false
+      },
+      {
+        "text": "DNS address",
+        "correct": false
+      },
+      {
+        "text": "MAC address",
+        "correct": true
+      },
+      {
+        "text": "URL address",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A MAC address consists of 6 bytes, what do the first three bytes represent?",
+    "answers": [
+      {
+        "text": "The card number",
+        "correct": false
+      },
+      {
+        "text": "The manufacturer identifier",
+        "correct": true
+      },
+      {
+        "text": "The port number",
+        "correct": false
+      },
+      {
+        "text": "The network number",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main benefit of using a Wi-Fi card in a desktop computer?",
+    "answers": [
+      {
+        "text": "It improves the device's processing speed",
+        "correct": false
+      },
+      {
+        "text": "It allows a workstation to be set up without the need for a wired network connection",
+        "correct": true
+      },
+      {
+        "text": "It increases the available storage space",
+        "correct": false
+      },
+      {
+        "text": "It allows the device to be connected to multiple screens",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary purpose of a Switch in a network?",
+    "answers": [
+      {
+        "text": "To connect different networks together",
+        "correct": false
+      },
+      {
+        "text": "To segment networks into smaller subnets",
+        "correct": true
+      },
+      {
+        "text": "To process commands and programs",
+        "correct": false
+      },
+      {
+        "text": "To connect wireless devices only",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How does a Switch prevent network traffic congestion?",
+    "answers": [
+      {
+        "text": "By merging subnets",
+        "correct": false
+      },
+      {
+        "text": "By segmenting the network into smaller subnets",
+        "correct": true
+      },
+      {
+        "text": "By increasing the size of the network",
+        "correct": false
+      },
+      {
+        "text": "By forwarding all data to a central server",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the device that connects two different networks but can handle different protocols?",
+    "answers": [
+      {
+        "text": "Bridge",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      },
+      {
+        "text": "Router",
+        "correct": true
+      },
+      {
+        "text": "Server",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main function of a Router?",
+    "answers": [
+      {
+        "text": "To segment a network into subnets",
+        "correct": false
+      },
+      {
+        "text": "To route data from one network to another",
+        "correct": true
+      },
+      {
+        "text": "To connect wireless devices to a network",
+        "correct": false
+      },
+      {
+        "text": "To connect networks that follow the same protocol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the device that connects dissimilar networks and is known as an 'entrance' to another network?",
+    "answers": [
+      {
+        "text": "Bridge",
+        "correct": false
+      },
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Gateway",
+        "correct": true
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "In enterprise networks, what is the role of a Gateway?",
+    "answers": [
+      {
+        "text": "To connect computers within a single LAN",
+        "correct": false
+      },
+      {
+        "text": "To route traffic from a workstation to an external network",
+        "correct": true
+      },
+      {
+        "text": "To store data and files",
+        "correct": false
+      },
+      {
+        "text": "To convert data from one format to another",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What are the devices used to create connections for computers in a wireless LAN with a fixed wired network?",
+    "answers": [
+      {
+        "text": "Wireless Access Points",
+        "correct": true
+      },
+      {
+        "text": "Bridge",
+        "correct": false
+      },
+      {
+        "text": "Router",
+        "correct": false
+      },
+      {
+        "text": "Switch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is another name for an Access Point (AP)?",
+    "answers": [
+      {
+        "text": "Wireless Access Point (WAP)",
+        "correct": true
+      },
+      {
+        "text": "Network Interface Unit (NIU)",
+        "correct": false
+      },
+      {
+        "text": "Terminal Access Point (TAP)",
+        "correct": false
+      },
+      {
+        "text": "Wireless Router",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the operating range of home Access Points (AP)?",
+    "answers": [
+      {
+        "text": "Up to 50 feet",
+        "correct": false
+      },
+      {
+        "text": "Up to 150 feet",
+        "correct": true
+      },
+      {
+        "text": "Up to 500 feet",
+        "correct": false
+      },
+      {
+        "text": "Up to 1000 feet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Can a Wireless Router act as an Access Point (AP)?",
+    "answers": [
+      {
+        "text": "No, never",
+        "correct": false
+      },
+      {
+        "text": "Yes, it can, but not all Access Points can act as Routers",
+        "correct": true
+      },
+      {
+        "text": "Yes, but only if it supports a different protocol",
+        "correct": false
+      },
+      {
+        "text": "No, a Router and an Access Point operate completely independently",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the purpose of the Open Systems Interconnection (OSI) model?",
+    "answers": [
+      {
+        "text": "To serve as the primary architectural model for inter-computer communications.",
+        "correct": true
+      },
+      {
+        "text": "To define the physical components of a network, such as cables and connectors.",
+        "correct": false
+      },
+      {
+        "text": "To manage and troubleshoot network traffic on a small scale.",
+        "correct": false
+      },
+      {
+        "text": "To handle data encryption and compression for a single device.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which organization developed the OSI reference model?",
+    "answers": [
+      {
+        "text": "The Institute of Electrical and Electronics Engineers (IEEE).",
+        "correct": false
+      },
+      {
+        "text": "The International Telecommunication Union (ITU).",
+        "correct": false
+      },
+      {
+        "text": "The Internet Engineering Task Force (IETF).",
+        "correct": false
+      },
+      {
+        "text": "The International Organization for Standardization (ISO).",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How many layers are there in the OSI reference model?",
+    "answers": [
+      {
+        "text": "Three layers.",
+        "correct": false
+      },
+      {
+        "text": "Five layers.",
+        "correct": false
+      },
+      {
+        "text": "Seven layers.",
+        "correct": true
+      },
+      {
+        "text": "Four layers.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the function of the Physical Layer in the OSI model?",
+    "answers": [
+      {
+        "text": "To manage end-to-end message transmission and error detection.",
+        "correct": false
+      },
+      {
+        "text": "To provide a physical interface for information transmission and define rules for passing bits between systems.",
+        "correct": true
+      },
+      {
+        "text": "To route packets through the network.",
+        "correct": false
+      },
+      {
+        "text": "To handle dialogue control between end systems.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main responsibility of the Data Link Layer?",
+    "answers": [
+      {
+        "text": "Breaking outgoing data into frames and reassembling received frames.",
+        "correct": true
+      },
+      {
+        "text": "Ensuring data units are delivered error-free and in sequence.",
+        "correct": false
+      },
+      {
+        "text": "Providing services like file transfer and email.",
+        "correct": false
+      },
+      {
+        "text": "Handling data compression and encryption.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer is responsible for logical addressing and routing packets?",
+    "answers": [
+      {
+        "text": "Session Layer.",
+        "correct": false
+      },
+      {
+        "text": "Data Link Layer.",
+        "correct": false
+      },
+      {
+        "text": "Network Layer.",
+        "correct": true
+      },
+      {
+        "text": "Physical Layer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary function of the Transport Layer?",
+    "answers": [
+      {
+        "text": "To provide a reliable mechanism for data exchange between two processes in different computers.",
+        "correct": true
+      },
+      {
+        "text": "To define the format in which data is exchanged.",
+        "correct": false
+      },
+      {
+        "text": "To manage physical media and voltage levels.",
+        "correct": false
+      },
+      {
+        "text": "To provide management functions for distributed applications.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is a 'session' in the context of the Session Layer?",
+    "answers": [
+      {
+        "text": "A physical connection between two devices.",
+        "correct": false
+      },
+      {
+        "text": "A conversation between applications that can be started, controlled, and ended.",
+        "correct": true
+      },
+      {
+        "text": "The process of data encapsulation.",
+        "correct": false
+      },
+      {
+        "text": "A piece of hardware that manages network traffic.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What functions are handled by the Presentation Layer?",
+    "answers": [
+      {
+        "text": "Routing and congestion control.",
+        "correct": false
+      },
+      {
+        "text": "Establishing and terminating connections.",
+        "correct": false
+      },
+      {
+        "text": "Data representation, compression, and encryption.",
+        "correct": true
+      },
+      {
+        "text": "Defining physical data rates and connectors.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which layer is the highest level of the OSI model and interacts directly with application programs?",
+    "answers": [
+      {
+        "text": "Transport Layer.",
+        "correct": false
+      },
+      {
+        "text": "Session Layer.",
+        "correct": false
+      },
+      {
+        "text": "Presentation Layer.",
+        "correct": false
+      },
+      {
+        "text": "Application Layer.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "In the OSI model, what is the term for the process of adding protocol information to data as it moves down the layers?",
+    "answers": [
+      {
+        "text": "Fragmentation.",
+        "correct": false
+      },
+      {
+        "text": "Encapsulation.",
+        "correct": true
+      },
+      {
+        "text": "Reassembly.",
+        "correct": false
+      },
+      {
+        "text": "Handshaking.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is a 'protocol' in the context of network layers?",
+    "answers": [
+      {
+        "text": "A physical device that connects networks.",
+        "correct": false
+      },
+      {
+        "text": "A set of rules that defines the format of exchanged data and the control and timing for handshakes between layers.",
+        "correct": true
+      },
+      {
+        "text": "A type of software used for remote login.",
+        "correct": false
+      },
+      {
+        "text": "A type of data that is encrypted by the presentation layer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which layers are considered the 'lower' layers and are concerned with the flow of data from end to end?",
+    "answers": [
+      {
+        "text": "Application, Presentation, and Session.",
+        "correct": false
+      },
+      {
+        "text": "Network, Data Link, and Physical.",
+        "correct": false
+      },
+      {
+        "text": "Transport, Network, Data Link, and Physical.",
+        "correct": true
+      },
+      {
+        "text": "Transport and Network only.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How does a message travel through the OSI model at the receiving end?",
+    "answers": [
+      {
+        "text": "It moves from the top Application layer down to the Physical layer.",
+        "correct": false
+      },
+      {
+        "text": "It moves from the bottom Physical layer up to the Application layer, with headers being stripped at each layer.",
+        "correct": true
+      },
+      {
+        "text": "It is retransmitted from the last checkpoint if an error occurs.",
+        "correct": false
+      },
+      {
+        "text": "It is fragmented into smaller packets and then reassembled at the Application layer.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is a key benefit of using a layered architecture for networking?",
+    "answers": [
+      {
+        "text": "It makes it easier to debug network applications and simplifies network design.",
+        "correct": true
+      },
+      {
+        "text": "It eliminates the need for any communication software.",
+        "correct": false
+      },
+      {
+        "text": "It allows a single system to communicate without any protocols.",
+        "correct": false
+      },
+      {
+        "text": "It restricts the types of applications that can use the network.",
+        "correct": false
+      }
+    ]
+  }
+]
